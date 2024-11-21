@@ -2,8 +2,8 @@
 
 
 ## About me
-I’m currently learning about Jetpack compose
-Ask me about Kotlin 
+- I’m currently learning about Jetpack compose
+- Ask me about Kotlin 
 <!--
 **joselorenzo6/joselorenzo6** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
